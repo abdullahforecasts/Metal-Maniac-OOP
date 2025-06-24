@@ -24,7 +24,7 @@
 **Metal Maniac OOP Edition** is an enhanced object-oriented version of the original side-scrolling shooter, featuring:
 
 * Robust OOP architecture with proper class hierarchy
-* Integrated shop system (handled by Menu class)
+* Integrated shop system 
 * Persistent game state saving
 * New pause functionality
 * Customizable player experience through unlockables
